@@ -60,4 +60,10 @@ if __name__ == "__main__":
 
 
 
-class SnuffLogger
+class SnuffLogger:
+
+    def __init__(self, ReportTime, email, password):
+
+        self.password = password
+        self.email = email
+        self.ReportTime = ReportTime
