@@ -1,1 +1,3 @@
 
+Add it the startup registry so it runs on start
+Make it so that it emails me back every 60.
