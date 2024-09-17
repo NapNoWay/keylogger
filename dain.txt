@@ -1,3 +1,4 @@
 
 Add it the startup registry so it runs on start
-Make it so that it emails me back every 60.
+Make it so that it emails me back data every 60 seconds.
+Add microphone , webcam , and screenshotting , screen recording
